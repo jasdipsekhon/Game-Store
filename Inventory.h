@@ -1,6 +1,6 @@
 //
 //  Inventory.h
-//  fpsGames
+//  gameStore
 //
 //  Created by Jasdip Sekhon on 9/12/19.
 //  Copyright © 2019 Jasdip Sekhon. All rights reserved.
