@@ -1,6 +1,6 @@
 //
 //  FindFpsTester.cpp
-//  rick'sGames
+//  fpsGames
 //
 //  Created by Jasdip Sekhon on 1/20/20.
 //  Copyright © 2020 Jasdip Sekhon. All rights reserved.
